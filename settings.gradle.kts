@@ -1,1 +1,1 @@
-rootProject.name = "com.github.sintexer.typotype"
+rootProject.name = "typotype"
